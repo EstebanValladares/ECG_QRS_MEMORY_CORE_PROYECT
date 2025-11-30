@@ -71,4 +71,8 @@ def graficar_dato_ecg():
     plt.show()
 
 if __name__ == "__main__":
-    graficar_dato_ecg()
+    respuesta = input("Quiere graficar algun dato? (S/n): ").lower()
+    if respuesta == 's' or respuesta == 'si':
+        graficar_dato_ecg()
+    else:
+        print("Ejecucion finalizada")

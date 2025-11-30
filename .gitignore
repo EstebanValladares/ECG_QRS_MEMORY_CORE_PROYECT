@@ -1,2 +1,4 @@
 # Archivo .gitignore
 .venv/
+data_ecg/*
+!data_ecg/
