@@ -49,3 +49,5 @@ nuevamente instala la librería que presentó el error!
 > * Python 3.11.9
 > * Docker 28.0.4
 > * vue/cli 5.0.8
+
+![Diagrama](https://github.com/EstebanValladares/ECG_QRS_MEMORY_CORE_PROYECT/blob/main/assets/PROYECTO_COMPEAN.jpg)
