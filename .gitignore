@@ -2,3 +2,5 @@
 .venv/
 data_ecg/*
 !data_ecg/
+data_ecg_copia/*
+!data_ecg_copia/
